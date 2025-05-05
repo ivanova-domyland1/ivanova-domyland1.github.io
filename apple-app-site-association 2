@@ -1,0 +1,16 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "EN3HMAWVEP.com.domyland.superdom",
+               "components": [
+               {
+                  "/": "/branding/*",
+                  "comment": "Открывает как универсальную ссылку любой URL-адресс, путь которого начинается на /branding/"
+               }
+             ]
+            }
+        ]
+    }
+}
